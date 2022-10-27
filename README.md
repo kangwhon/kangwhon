@@ -1,5 +1,5 @@
-### Hi there 👋
-# 자기소개
+
+# 인적사항
 #### 이름 : 이강훈
 
 #### 나이 : 25
@@ -44,6 +44,19 @@
 [google]: http://google.com
 [무신사]: https://www.musinsa.com
 [넷플릭스]: https://www.netflix.com/kr
+
+2022년도 2학기 수강 과목  
+|번호|과목|
+|---|---|
+|1|생활속의통계학|
+|2|게임프로그래밍|
+|3|오디세이세미나3|
+|4|알고리즘|
+|5|디지털리터러시2|
+|6|오픈소스SW개발도구활용|
+|7|웹프레임워크활용|
+|8|스포츠-스키캠프|
+
 <!--
 **kangwhon/kangwhon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
