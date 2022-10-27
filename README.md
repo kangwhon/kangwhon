@@ -57,6 +57,8 @@
 |7|웹프레임워크활용|
 |8|스포츠-스키캠프|
 
+## 주요활동
+**창업동아리 MGC에서 백엔드 개발자를 맡고 있으며 빌려주는 앱을 제작중이다.**
 <!--
 **kangwhon/kangwhon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
