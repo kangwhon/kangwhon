@@ -9,48 +9,12 @@
 #### email : kangwhon@naver.com
 
 -------
-> 💪취미
->> 게임  
->> 드라마, 영화보기  
->> 노래 듣기  
-
-## ❤나의 이번년도 버킷리스트
-1. 모든 과목 올 A+ 맞기  
-2. **부모님 멋진 선물 사드리기**    
-3. **가족들이랑 좋은 곳으로 여행가기**  
-4. **가족들이랑 좋은 맛집에서 외식하기**
-5. 미래에 할 직업 추상적으로 말고 구체적으로 생각해보고 취업 준비하기  
 
 ## ✏사용 가능 언어
 * Java
 * Python
 * R
 * C
-
-## 🛠관심있는 사이트 목록
-[학교 수업][CyberCampus]  
-[우리 학교][hallym]  
-[옷 사는곳][무신사]  
-[영화, 드라마 보는곳][넷플릭스]
-
-## 🔧주요 검색 사이트
-[네이버][naver]  
-[구글][google]
-
-[CyberCampus]: https://smartlead.hallym.ac.kr
-[hallym]: https://www.hallym.ac.kr
-[naver]: https://www.naver.com
-[google]: http://google.com
-[무신사]: https://www.musinsa.com
-[넷플릭스]: https://www.netflix.com/kr
-
-## 🦵주요활동
-* **창업동아리 MGC**
-  + 포지션 : 백엔드 개발자
-  + 작업 : 빌려주는 앱 개발
-  + 제작인원 : 4명
-
-
 
 <!--
 **kangwhon/kangwhon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
